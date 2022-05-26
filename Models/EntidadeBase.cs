@@ -2,6 +2,6 @@ namespace DioProjetoSeries
 {
     public abstract class EntidadeBase
     {
-        public int ID { get; protected set; }
+        public int Id { get; protected set; }
     }
 }
