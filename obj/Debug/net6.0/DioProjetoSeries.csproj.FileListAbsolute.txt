@@ -1,0 +1,15 @@
+C:\Users\sidne\Desktop\DioProjetoSeries\bin\Debug\net6.0\DioProjetoSeries.exe
+C:\Users\sidne\Desktop\DioProjetoSeries\bin\Debug\net6.0\DioProjetoSeries.deps.json
+C:\Users\sidne\Desktop\DioProjetoSeries\bin\Debug\net6.0\DioProjetoSeries.runtimeconfig.json
+C:\Users\sidne\Desktop\DioProjetoSeries\bin\Debug\net6.0\DioProjetoSeries.dll
+C:\Users\sidne\Desktop\DioProjetoSeries\bin\Debug\net6.0\DioProjetoSeries.pdb
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.csproj.AssemblyReference.cache
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.AssemblyInfoInputs.cache
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.AssemblyInfo.cs
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.dll
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\refint\DioProjetoSeries.dll
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.pdb
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\DioProjetoSeries.genruntimeconfig.cache
+C:\Users\sidne\Desktop\DioProjetoSeries\obj\Debug\net6.0\ref\DioProjetoSeries.dll
